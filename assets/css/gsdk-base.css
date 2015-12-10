@@ -1139,8 +1139,9 @@ input.ct-red + span.switch-left, input.ct-red + span + label + span.switch-right
     float: left;
 }
 .logo-container .brand{
-    font-size: 18px;
-    color: #1e2dff;
+    font-size: 22px;
+    font-weight: 900;
+    color: #ffb209;
     line-height: 20px;
     float: left;
     margin-left: 10px;
@@ -1152,7 +1153,7 @@ input.ct-red + span.switch-left, input.ct-red + span + label + span.switch-right
     font-size: 76px;
     font-weight: 600;
     left: 100%;
-    margin-left: -63%;
+    margin-left: -73%;
     position: absolute;
     text-align: center;
     text-shadow: 0 0 10px rgba(0, 0, 0, 0.33);
